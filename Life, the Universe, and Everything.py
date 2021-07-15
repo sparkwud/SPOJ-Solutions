@@ -5,6 +5,9 @@ while number != 42:
     
 
 
+
+
+
 # while True:
 #     number = int(input())
 #     if number == 42:
