@@ -7,7 +7,7 @@ while number != 42:
 
 
 
-
+# TEST SOLUTION
 # while True:
 #     number = int(input())
 #     if number == 42:
