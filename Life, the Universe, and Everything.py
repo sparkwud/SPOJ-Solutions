@@ -1,15 +1,7 @@
-number = int(input())
-while number != 42:
+while True:
+    number = int(input("Enter the number: "))
+    if number == 42:
+        break
     print(number)
-    number = int(input())
-    
 
 
-
-
-# TEST SOLUTION
-# while True:
-#     number = int(input())
-#     if number == 42:
-#         break
-#     print(number)
