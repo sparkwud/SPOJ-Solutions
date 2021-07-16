@@ -1,5 +1,5 @@
 while True:
-    number = int(input("Enter the number: "))
+    number = int(input())
     if number == 42:
         break
     print(number)
